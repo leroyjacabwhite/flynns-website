@@ -1,7 +1,7 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 300;
-	color:red; 
+	 
 }
 h6,
 h5,
@@ -19,3 +19,5 @@ img {width:100px }
 
 font-family: 'Poppins', sans-serif;
 font-family: 'Ubuntu', sans-serif;
+
+#footer {background-color:blue;color:#fff} 

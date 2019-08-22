@@ -24,9 +24,10 @@ font-family: 'Ubuntu', sans-serif;
 
 #footer {background-color:blue;color:#fff}
 
-
- 
 #lowerfooter {background-color:darkblue;} 
 
 #lowerfooter i {font-size:25px;color:#fff;margin:10px }
 
+#products {background-color:blue;color:#fff}
+
+#products i {font-size:35px;color:#fff;margin:100px 50px opx 50px}

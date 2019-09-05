@@ -31,3 +31,10 @@ font-family: 'Ubuntu', sans-serif;
 #products {background-color:blue;color:#fff}
 
 #products i {font-size:35px;color:#fff;margin:100px 50px opx 50px}
+
+.paymethods i {font-size:200px;color:#fff;}
+.paymethods p {font-size:24px;color#fff;margin-top:12px}
+.mBBox {background-color:red;padding:15px; border-radius:15px}
+
+.pBox{}
+.pBox 
